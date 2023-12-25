@@ -1,39 +1,29 @@
-### Hi there 👋
-Hello, I am an analytics student from Moscow. I am interested in data-science, data/product/marketing-analysis, product-management and lean-startups. Here is some information about me
+### Vladimir Belyaev / SpaceKwazzart
+Hello, I am an analytics student from Moscow with a keen interest in machine learning and software development. Below is a summary of my background and accomplishments.
 
-Projects and achievements:
-Business optimization of a Russian distribution product company, construction of a metrics tree, introduction of analytical tools for order ranking in business operations. Efficiency of working capital increased by 31%
+### Projects and Achievements:
+---
+Optimization of Business Processes: Enhanced a Russian distribution product company's operations by constructing a metrics tree and implementing analytical tools for order ranking. Resulted in a 31% increase in working capital efficiency.
+Case Championship Winner: Led a team to victory in developing a transportation company's strategy using time-series market forecasting. As the key analyst, I developed crucial strategies, predicted demand for transportation services, and created a financial model for different scenarios.
+Kaggle Competitions: Successfully participated in competitions focusing on spaceship and housing price predictions, demonstrating strong data handling skills.
 
-Winning the case championship, best solution for developing a transportation company's strategy (time-series market forecasting). In this case study, I played the role of key analyst, developed key strategies, predicted demand for transportation company services and developed a financial model of alternatives
+### Education:
+---
+Higher School of Economics (HSE), Moscow
+Department: Business, Marketing and Market Analytics
+Specialization: Intelligent Data Analysis
+Ranking: 1st place out of 146 students in the department
+Focused on: Statistics, Mathematics (Calculus, Linear Algebra, Probability Theory, Statistics), Machine Learning (Minor)
+Additional Interests: Digital Marketing in the context of product development and customer engagement.
+Additional Courses:
+Kaprov Courses: SQL (interactive and practical)
+Stepik Karpov: Fundamentals of Statistics (Parts I, II, III) - A solid foundation in statistics.
+Stepik: Interactive SQL Simulator - A hands-on approach to SQL.
 
-Kaggle's competitions spaceship and housing prices with a nice working with data
-
-Education
-Higher School of Economics (HSE, Moscow), department of business, marketing and market analytics, specialization - Intelligent Data Analysis. I take the 1st place out of 146 students in my department.
-
-At university, I most enjoy subjects related to statistics and mathematics (calculus, linear algebra, probability theory, statistics), as well as machine learning (my minor)/ Although business subjects, such as digital marketing, are also very interesting in the context of product development and customer engagement.
-
-Additional courses
-
-Kaprov courses: SQL (cool, interactive and practical)
-stepik Karpov: fundamentals of statistics (I, II, III) (basics of basics!)
-stepik: interactive SQL simulator (another cool practical course)
-Hard skills:
-Fundamental: mathematical statistics, algorithms and data structures, calculus, linear algebra
-Programming: Python (pandas, numpy, sklearn, matplotlib, scipy, pytorch), SQL
-Statistics: A/B testing, hypothesis testing, metrics, dashboard creation
-Machine learning: time-series prediction using gradient boostings, building recommendation systems (Content Based/Collaborative Filtering/Matrix Factorication/Matrix Factorization Machines)
-<!--
-**SpaceKwazzart/SpaceKwazzart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hard Skills:
+---
+Fundamentals: Mathematical Statistics, Algorithms and Data Structures, Calculus, Linear Algebra
+Programming: Proficient in Python (pandas, numpy, sklearn, matplotlib, scipy, pytorch), SQL
+Statistics: A/B Testing, Hypothesis Testing, Metrics, Dashboard Creation
+Machine Learning: Specialized in time-series prediction using gradient boosting, building recommendation systems (Content-Based, Collaborative Filtering, Matrix Factorization, Matrix Factorization Machines)
+My primary focus and passion lie in the fields of machine learning (especially deep learning) and software development, where I aim to integrate my analytical skills with advanced computational techniques to drive innovation and efficiency.
