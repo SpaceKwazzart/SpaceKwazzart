@@ -3,6 +3,7 @@ Hello, I am an analytics student from Moscow with a keen interest in machine lea
 
 ### Projects and Achievements:
 -
+
 - Optimization of Business Processes: Enhanced a Russian distribution product company's operations by constructing a metrics tree and implementing analytical tools for order ranking. Resulted in a 31% increase in working capital efficiency.
 - ML-Case Championship Winner: Led a team to victory in developing a transportation company's strategy using time-series market forecasting. As the key analyst, I developed crucial strategies, predicted demand for transportation services, and created a financial model for different scenarios.
 - Kaggle Competitions: Successfully participated in competitions focusing on spaceship and housing price predictions, demonstrating strong data handling skills.
